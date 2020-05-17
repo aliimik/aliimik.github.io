@@ -1,0 +1,15 @@
+img{
+    height: 282px;
+    width: 421px;
+}
+ li { 
+     list-style-type:none;
+     display:inline-block;
+    } 
+li:hover{
+    color: blue;
+}
+button  {
+    width: 161px;
+    height: 60px;
+}
